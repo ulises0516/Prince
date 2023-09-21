@@ -1,11 +1,12 @@
 body{
     margin:0 ;
     font-family:  system-ui;
+    background-image: url("Prince.jpg");
 }
 
 .hero{
     background-color: #074f67;
-    background-image: url("Prince.jpg");
+    background-image: url("Header.jpg");
     color: white;
     
 }
