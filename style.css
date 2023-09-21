@@ -4,9 +4,8 @@ body{
 }
 
 .hero{
-    
+    background-color: #074f67;
     background-image: url("Prince.jpg");
-    background: #074f67;
     color: white;
     
 }
