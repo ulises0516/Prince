@@ -4,11 +4,11 @@ body{
 }
 
 .hero{
-    margin: 0;
+    
     background-image: url("Prince.jpg");
     background: #074f67;
     color: white;
-    text-align: center; 
+    
 }
 .container{
     max-width: 960px;
