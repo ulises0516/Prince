@@ -1,6 +1,19 @@
 body{
+    margin:0 ;
+    font-family:  system-ui;
+}
+
+.hero{
     margin: 0;
     background-image: url("download\ \(1\).jpg");
-    background: purple;
+    background: #074f67;
+    color: white;
     text-align: center; 
+}
+.container{
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 1rem;
+    padding-right: 1rem;
 }
