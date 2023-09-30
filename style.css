@@ -14,10 +14,10 @@ body{
 }
 
 .hero{
-    background-color: #074f67;
-    background-image: url("the-little-prince-new.jpg");
+   /* background-color: #074f67;
+   /* background-image: url("the-little-prince-new.jpg");*/
     background-size: cover;
-    color: white;
+    /*color: white;*/
     
 }
 .container{
@@ -26,4 +26,20 @@ body{
     margin-right: auto;
     padding-left: 1rem;
     padding-right: 1rem;
+}
+.noMargin{
+    margin: 0px;
+
+}
+.one{
+    background-color: red;
+}
+.two{
+    background: yellow;
+}
+.three{
+    background-color: aqua;
+}
+.four{
+    background-color: blueviolet;
 }
