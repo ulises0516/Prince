@@ -1,7 +1,16 @@
 body{
     margin:0 ;
     font-family:  system-ui;
-    background-image: url("Prince.jpg");
+    /*background-image: url("Prince.jpg");*/
+
+}
+.center{
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid;
+    padding: 10px;
+
 }
 
 .hero{
