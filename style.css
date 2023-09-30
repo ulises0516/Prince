@@ -6,7 +6,8 @@ body{
 
 .hero{
     background-color: #074f67;
-    background-image: url("the-little-prince-medium.jpeg");
+    background-image: url("the-little-prince-new.jpg");
+    background-size: cover;
     color: white;
     
 }
