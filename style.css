@@ -7,11 +7,11 @@
   }
   
   .noMargin {
-    margin: 0px;
+    margin: 100px;
   }
   
   .one {
-    height: 200px;
+    height: 300px;
     width: 50%;
     background-color: red;
     
@@ -19,23 +19,23 @@
   }
   
   .two {
-    height: 200px;
+    height: 300px;
     width: 50%;
     background-color: yellow;
     
   }
   
   .three {
-    height: 200px;
+    height: 300px;
     width: 50%;
     background-color: green;
     
   }
   
   .four {
-    height: 200px;
+    height: 300px;
     width: 50%;
-    background-color: blue;
+    background-color: powderblue;
     
   }
 body{
