@@ -18,16 +18,7 @@
   .noMargin {
     margin: 0px;
   }
-  .col{
-    display: flex;
-    width: 100%;
-  }
-  .col div {
-    width: 20%;
-  }
-  .noCol{
-    margin: 0px;
-  }
+  
   
   .one {
     height: 300px;
