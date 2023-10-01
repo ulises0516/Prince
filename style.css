@@ -11,19 +11,32 @@
   }
   
   .one {
+    height: 200px;
+    width: 50%;
     background-color: red;
+    
+    
   }
   
   .two {
+    height: 200px;
+    width: 50%;
     background-color: yellow;
+    
   }
   
   .three {
+    height: 200px;
+    width: 50%;
     background-color: green;
+    
   }
   
   .four {
+    height: 200px;
+    width: 50%;
     background-color: blue;
+    
   }
 body{
     margin:0 ;
