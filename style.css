@@ -14,14 +14,17 @@
     height: 300px;
     width: 50%;
     background-color: red;
-    
-    
+    color: powderblue;
+    font-family: cursive;
   }
+  
   
   .two {
     height: 300px;
     width: 50%;
     background-color: yellow;
+    color: powderblue;
+    font-family: cursive;
     
   }
   
@@ -29,18 +32,23 @@
     height: 300px;
     width: 50%;
     background-color: green;
+    color: powderblue;
+    font-family: cursive;
     
   }
   
   .four {
     height: 300px;
     width: 50%;
-    background-color: powderblue;
+    background-color: yellow;
+    color: powderblue;
+    font-family: cursive;
     
   }
 body{
     margin:0 ;
     font-family:  system-ui;
+    background: rgba(248,222,126,0.3 )
     /*background-image: url("Prince.jpg");*/
 
 }
