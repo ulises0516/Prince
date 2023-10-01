@@ -12,11 +12,11 @@
     width: 100%;
 }
 .row div {
-    width: 50%;
+    width: 20%;
   }
   
   .noMargin {
-    margin: 20px;
+    margin: 0px;
   }
   
   .one {
