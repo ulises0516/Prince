@@ -1,3 +1,12 @@
+.header {
+    padding: 60px;
+    text-align: center;
+    background-image: url("the-little-prince-new.jpg");
+    color: powderblue;
+    font-size: 50px;
+    font-family: cursive;
+}
+
 .row{
     display: flex;
     width: 100%;
@@ -7,7 +16,7 @@
   }
   
   .noMargin {
-    margin: 100px;
+    margin: 0px;
   }
   
   .one {
